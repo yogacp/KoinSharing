@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "id": 335983,
+      "title": "Venom (2018)",
+      "tagline": "The world has enough Superheroes.",
+      "release_date": "2018-09-28",
+      "poster": "poster_venom.webp",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rhLspFB1B8ZCkWEHFYmc3NKagzq.jpg",
+      "vote_average": 6.6,
+      "original_language": "en",
+      "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own."
+    },
+    {
+      "id": 297802,
+      "title": "Aquaman",
+      "tagline": "Home Is Calling",
+      "release_date": "2018-12-07",
+      "poster": "poster_aquaman.webp",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
+      "vote_average": 6.8,
+      "original_language": "en",
+      "overview": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne."
+    },
+    {
+      "id": 299536,
+      "title": "Avengers: Infinity War",
+      "tagline": "An entire universe. Once and for all.",
+      "release_date": "2018-04-25",
+      "poster": "poster_avengerinfinity.webp",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
+      "vote_average": 8.3,
+      "original_language": "en",
+      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain."
+    },
+    {
+      "id": 424783,
+      "title": "Bumblebee",
+      "tagline": "Every Hero Has a Beginning",
+      "release_date": "2018-12-15",
+      "poster": "poster_bumblebee.webp",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wtZj5nn6hVwgakPdg6y6gm3eFXU.jpg",
+      "vote_average": 6.5,
+      "original_language": "en",
+      "overview": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug."
+    },
+    {
+      "id": 503314,
+      "title": "Dragon Ball Super: Broly",
+      "tagline": "Three Saiyans directed by fate... an uncontrollable urge to fight.",
+      "release_date": "2018-12-14",
+      "poster": "poster_dragonball.webp",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6OTRuxpwUUGbmCX3MKP25dOmo59.jpg",
+      "vote_average": 7.4,
+      "original_language": "en",
+      "overview": "Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called 'Broly' who they've never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what's this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix."
+    },
+    {
+      "id": 166428,
+      "title": "How to Train Your Dragon: The Hidden World",
+      "tagline": "Three Saiyans directed by fate... an uncontrollable urge to fight.",
+      "release_date": "2019-01-03",
+      "poster": "poster_dragon.webp",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lFwykSz3Ykj1Q3JXJURnGUTNf1o.jpg",
+      "vote_average": 7.6,
+      "original_language": "en",
+      "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind."
+    },
+    {
+      "id": 450465,
+      "title": "Glass",
+      "tagline": "You Cannot Contain What You Are",
+      "release_date": "2019-01-16",
+      "poster": "poster_glass.webp",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rL1ITQuX0lmSNPu52pRRHUyim5N.jpg",
+      "vote_average": 6.5,
+      "original_language": "en",
+      "overview": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men."
+    },
+    {
+      "id": 399579,
+      "title": "Mortal Engines",
+      "tagline": "Some Scars Never Heal",
+      "release_date": "2018-11-27",
+      "poster": "poster_mortalengine.webp",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jnOuttTfG9KKpmOZtprC4pA1AlZ.jpg",
+      "vote_average": 6,
+      "original_language": "en",
+      "overview": "Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever."
+    },
+    {
+      "id": 568709,
+      "title": "Preman Pensiun",
+      "tagline": "",
+      "release_date": "2019-01-17",
+      "poster": "poster_preman.webp",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rrznEEdi4OVPsrqbEgmCE7nzjPs.jpg",
+      "vote_average": 6.6,
+      "original_language": "id",
+      "overview": ""
+    },
+    {
+      "id": 480530,
+      "title": "Creed II",
+      "tagline": "There's More to Lose than a Title",
+      "release_date": "2018-11-21",
+      "poster": "poster_creed.webp",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hZqx2JcZVjHSY2lMEMDC0XlObiw.jpg",
+      "vote_average": 6.7,
+      "original_language": "en",
+      "overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life."
+    },
+    {
+      "id": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "tagline": "More Than One Wears the Mask",
+      "release_date": "2018-12-06",
+      "poster": "poster_spiderman.webp",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uUiId6cG32JSRI6RyBQSvQtLjz2.jpg",
+      "vote_average": 8.4,
+      "original_language": "en",
+      "overview": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson \\\"Kingpin\\\" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension."
+    }
+  ]
+}
